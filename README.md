@@ -13,7 +13,7 @@ The below installation also works for Google Colab.
 
 ```bash
 # get the code
-git clone --recursive https://github.com/parlance/ctcdecode.git
+git clone --recursive https://github.com/Xiaotian0726/ctcdecode.git
 cd ctcdecode && pip install .
 ```
 
